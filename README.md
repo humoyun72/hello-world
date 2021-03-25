@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository
+Mana yangi branch ni ham o'zgartirishni o'rganib oldim.
